@@ -3443,6 +3443,7 @@ textarea.form-control {
 .carousel-arrows .owl-nav .owl-next:before {
     font-family: FontAwesome;
     content: "";
+    /* color: #005b27; */
     font-size: 60px
 }
 
