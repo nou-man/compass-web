@@ -4188,7 +4188,7 @@ textarea.form-control {
 
 .fancybox-layout2 .fancybox-item-custom {
     background-color: #005b27;
-    padding: 40px 40px 0;
+    padding: 40px 40px 40px;
     margin-top: 12px
 }
 
@@ -6991,3 +6991,7 @@ textarea.form-control {
         height: 250px
     }
 }
+
+
+/* ======= CUSTOM ========== */
+
