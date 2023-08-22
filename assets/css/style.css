@@ -2183,7 +2183,7 @@ textarea.form-control {
 
 .header-transparent .logo-light {
     display: inline-block;
-    max-width: 150px;
+    max-width: 220px;
     
 }
 
@@ -3129,8 +3129,10 @@ textarea.form-control {
 }
 
 .footer-bottom {
+    width: 100%;
     padding: 35px 0;
     border-top: 1px solid #23642d
+    colo
 }
 
 .footer-bottom .social__icons a {
